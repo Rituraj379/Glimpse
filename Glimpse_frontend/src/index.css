@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+.hide scroll-bar::-webkit-scrollbar {
+  display: none;
+}
